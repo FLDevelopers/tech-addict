@@ -18,5 +18,5 @@ Feel free to fork and re-use:
 https://github.com/FLDevelopers/tech-addict.git
 
 
-Made By: Fl Developers
+Made By: Fl Developers<BR>
 Email: fldeveloperspk@gmail.com
