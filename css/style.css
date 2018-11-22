@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat|Roboto");
+html, body {
+  height: 100%;
+  width: 100%; }
+
+body h1 h2 h3 h4 h5 h6 {
+  font-family: 'Montserrat'; }
+
+body p {
+  font-family: 'Roboto'; }
+
+/* Navbar */
+.my-nav {
+  background-color: #0d3457; }
+  .my-nav a {
+    font-family: 'Montserrat';
+    font-size: 1.2rem; }
+  .my-nav .navbar-brand {
+    font-size: 1.2rem;
+    color: white; }
+  .my-nav .navbar-brand:hover {
+    color: rgba(255, 255, 255, 0.9); }
+  .my-nav .nav-link {
+    color: white;
+    font-size: 1.2rem; }
+  .my-nav .nav-link:hover {
+    color: rgba(255, 255, 255, 0.9); }
+  .my-nav .nav-link .active {
+    color: rgba(255, 255, 255, 0.9); }
+  .my-nav .ul-margin {
+    margin-right: 8vh; }
+
+/* Landing Page */
+#home {
+  background: url(../assets/cover-img.jpg) no-repeat fixed center center;
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  position: relative; }
+
+.landing-text {
+  position: absolute;
+  width: auto;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%); }
+
+.landing-text h1 {
+  text-transform: uppercase;
+  color: white;
+  font-weight: bold; }
+
+.ct-heading-text {
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 1erm; }
+
+.btn-text {
+  color: rgba(0, 0, 0, 0.7);
+  font-size: 1.3rem;
+  font-weight: 1rem; }
+
+.content-container {
+  width: 80%;
+  margin: 0 auto; }
+
+.padding {
+  padding: 80px 0; }
+  .padding h2 {
+    font-weight: bold; }
+  .padding h4 {
+    font-weight: bold; }
+  .padding img {
+    width: 100%; }
+
+.hr-line {
+  border: .01rem solid black;
+  width: 80%;
+  margin: 2rem auto; }
+
+.cu-margin {
+  margin: 2rem auto; }
+
+#fixed {
+  background: url(../assets/img-7.png) no-repeat fixed center center;
+  display: table;
+  height: 70%;
+  position: relative;
+  width: 100%;
+  margin: auto auto;
+  background-size: cover; }
+
+/*Footer*/
+footer {
+  width: 100%;
+  color: #ffffff;
+  background-color: #17334b;
+  padding: 1% 1% 1% 1%;
+  margin-top: 1rem; }
+  footer .fa {
+    padding: .5rem;
+    font-size: 1.7rem;
+    color: #ffffff;
+    text-decoration: none;
+    list-style: none; }
+  footer .fa:hover {
+    color: #083c9c; }
+  footer .email {
+    margin-top: .2rem; }
+  footer .copyright {
+    margin: 4vh auto 1vh; }
