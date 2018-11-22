@@ -1,6 +1,6 @@
 <strong>Tech Addict - Responsive Bootstrap Portfolio Template</strong><br>
 
-It is the complete responsive Theme made with Bootstrap. It is made using SASS. Sass file is also Included in package.<br>
+It is the complete responsive Theme made with Bootstrap. It is made using SASS instead CSS. Both Pre-compilled Sass and Compilled Css files are also Included in the package.<br>
 It has Full screen Landing page with fixed Navbar.<br>
 Landing Page ScreenShot:<br>
 <img src="Images/Landing-Page.png">
