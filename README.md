@@ -1,5 +1,4 @@
-# tech-addict
-Tech Addict - Responsive Bootstrap Portfolio Template
+<strong>Tech Addict - Responsive Bootstrap Portfolio Template</strong>
 
 It is the complete responsive Theme made with Bootstrap.
 It has Full screen Landing page with fixed Navbar.
@@ -8,7 +7,9 @@ It has Full screen Landing page with fixed Navbar.
 It is General Purpose Portfolio Template. It has clean and elegant UI.
 <img src="Images/Full-Snap.jpg">
 
-If like it you can make changes in it and use it as your portfolio.
+If like it you can use it as your portfolio.
+Feel free to fork and re-use:
+https://github.com/FLDevelopers/tech-addict.git
 
 
 Made By: Fl Developers
